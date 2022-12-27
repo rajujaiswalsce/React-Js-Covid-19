@@ -25,12 +25,13 @@ div{
     align-items: center;
 }
 input{
-    width: 50%;
+    width: 100%;
     padding: 10px 20px;
     border: none;
     outline: none;
     margin: 20px 0;
     text-align: center;
+    border-radius: 5px;
 }
 button{
     line-height: 24px;
